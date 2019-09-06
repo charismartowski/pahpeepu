@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://einaevaeda.zhaoshenbin.site/sitemap.xml
